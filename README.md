@@ -1,4 +1,4 @@
-# QS-Fixed-SideNav-Dark-Teme-Mashup
+# QS-Fixed-SideNav-DarkTheme-Mashup
 
 
 ## Installation

@@ -1,0 +1,14 @@
+{
+	"type": "mashup",
+	"name": "Fixed_Side_Nav-DarkTheme",
+	"version": "1.0.0",
+	"description": "Basic single page mashup based on a Bootstrap with an image header",
+	"homepage": "",
+	"author": "UdayPasupuleti",
+	"keywords": "qlik-sense, mashup",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=2.1.x"
+	}
+}
